@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/potato-disease/static/css/main.71d072cd.css",
+    "main.js": "/potato-disease/static/js/main.e390a49c.js",
+    "static/js/787.2c360b47.chunk.js": "/potato-disease/static/js/787.2c360b47.chunk.js",
+    "static/media/bg.png": "/potato-disease/static/media/bg.d68360469fb8473444cf.png",
+    "static/media/cblogo.PNG": "/potato-disease/static/media/cblogo.fcecc55fa99a4ecc11c0.PNG",
+    "index.html": "/potato-disease/index.html",
+    "main.71d072cd.css.map": "/potato-disease/static/css/main.71d072cd.css.map",
+    "main.e390a49c.js.map": "/potato-disease/static/js/main.e390a49c.js.map",
+    "787.2c360b47.chunk.js.map": "/potato-disease/static/js/787.2c360b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d072cd.css",
+    "static/js/main.e390a49c.js"
+  ]
+}
